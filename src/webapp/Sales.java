@@ -9,4 +9,6 @@ public class Sales {
     // 15% off for a new collection
 
     // more sales items added
+
+    //added holidays page
 }
