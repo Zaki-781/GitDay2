@@ -5,4 +5,6 @@ public class HomePage {
     //Setting up homepage
 
     // navigation menu
+
+    // logo added
 }
